@@ -1,0 +1,8 @@
+.git
+.claude
+.env
+*.log
+bin
+coverage.out
+README.md
+LICENSE
